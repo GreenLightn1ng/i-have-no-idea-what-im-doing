@@ -1,0 +1,47 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[KILL]: Got 55 Exp for killing Lv. 3 Wooloo
+EV yield: {"def":1}
+[LEVELUP] Now level 6
+6	0	0	1	0	0	0
+Scorbunny (Lv. 6)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/1/0/0/0
+Current Exp: 190 (19.30%)
+[KILL]: Got 55 Exp for killing Lv. 5 Grookey
+EV yield: {"atk":1}
+[LEVELUP] Now level 7
+7	0	1	1	0	0	0
+Scorbunny (Lv. 7)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/1/1/0/0/0
+Current Exp: 245 (11.54%)
+[CATCH]: Got 60 Exp for catching Lv. 6 Skwovet
+EV yield: {"hp":1}
+Scorbunny (Lv. 7)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 1/1/1/0/0/0
+Current Exp: 305 (88.46%)
+[KILL]: Got 60 Exp for killing Lv. 6 Skwovet
+EV yield: {"hp":1}
+[LEVELUP] Now level 8
+8	2	1	1	0	0	0
+Scorbunny (Lv. 8)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/1/1/0/0/0
+Current Exp: 365 (48.57%)
+[KILL]: Got 26 Exp for killing Lv. 5 Blipbug
+EV yield: {"spDef":1}
+Scorbunny (Lv. 8)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/1/1/0/1/0
+Current Exp: 391 (73.33%)
+[KILL]: Got 62 Exp for killing Lv. 7 Nickit
+EV yield: {"spDef":1}
+[LEVELUP] Now level 9
+9	2	1	1	0	2	0
+Scorbunny (Lv. 9)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/1/1/0/2/0
+Current Exp: 453 (24.11%)
+[KILL]: Got 107 Exp for killing Lv. 6 Wooloo
+EV yield: {"def":1}
+[LEVELUP] Now level 10
+10	2	1	2	0	2	0
+Scorbunny (Lv. 10)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/1/2/0/2/0
+Current Exp: 560 (0.00%)
+[KILL]: Got 29 Exp for killing Lv. 5 Rookidee
+EV yield: {"spd":1}
+Scorbunny (Lv. 10)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/1/2/0/2/1
+Current Exp: 589 (15.93%)
+[KILL]: Got 83 Exp for killing Lv. 8 Grookey
+EV yield: {"atk":1}
+Scorbunny (Lv. 10)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/2/2/0/2/1
+Current Exp: 672 (61.54%)

@@ -1,0 +1,119 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[CATCH]: Got 76 Exp for catching Lv. 7 Minccino
+Could not find EV Yield for: Minccino
+Ninetales (Lv. 8)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 588 (35.02%)
+[KILL]: Got 110 Exp for killing Lv. 9 Zigzagoon
+EV yield: {"spd":1}
+Ninetales (Lv. 8)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/1
+Current Exp: 698 (85.71%)
+[KILL]: Got 97 Exp for killing Lv. 9 Nickit
+EV yield: {"spDef":1}
+[LEVELUP] Now level 9
+9	0	0	0	0	1	1
+Ninetales (Lv. 9)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/1/1
+Current Exp: 795 (24.35%)
+[KILL]: Got 101 Exp for killing Lv. 9 Zigzagoon
+EV yield: {"spd":1}
+Ninetales (Lv. 9)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/1/2
+Current Exp: 896 (61.62%)
+[KILL]: Got 89 Exp for killing Lv. 9 Nickit
+EV yield: {"spDef":1}
+Ninetales (Lv. 9)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/2/2
+Current Exp: 985 (94.46%)
+[KILL]: Got 315 Exp for killing Lv. 11 Wooloo
+EV yield: {"def":1}
+[LEVELUP] Now level 10
+10	0	0	1	0	2	2
+Ninetales (Lv. 10)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/1/0/2/2
+Current Exp: 1300 (90.63%)
+[KILL]: Got 137 Exp for killing Lv. 12 Rookidee
+EV yield: {"spd":1}
+[LEVELUP] Now level 11
+11	0	0	1	0	2	3
+Ninetales (Lv. 11)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/1/0/2/3
+Current Exp: 1437 (26.70%)
+[KILL]: Got 213 Exp for killing Lv. 14 Grookey
+EV yield: {"atk":1}
+Ninetales (Lv. 11)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/1/1/0/2/3
+Current Exp: 1650 (80.35%)
+[KILL]: Got 183 Exp for killing Lv. 13 Sizzlipede
+EV yield: {"atk":1}
+[LEVELUP] Now level 12
+12	0	2	1	0	2	3
+Ninetales (Lv. 12)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/1/0/2/3
+Current Exp: 1833 (22.39%)
+[KILL]: Got 375 Exp for killing Lv. 14 Dottler
+EV yield: {"spDef":2}
+[LEVELUP] Now level 13
+13	0	2	1	0	4	3
+Ninetales (Lv. 13)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/1/0/4/3
+Current Exp: 2208 (2.01%)
+[KILL]: Got 159 Exp for killing Lv. 14 Diglett
+EV yield: {"spd":1}
+Ninetales (Lv. 13)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/1/0/4/4
+Current Exp: 2367 (31.08%)
+[KILL]: Got 226 Exp for killing Lv. 15 Drilbur
+EV yield: {"atk":1}
+Ninetales (Lv. 13)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/0/4/4
+Current Exp: 2593 (72.39%)
+[KILL]: Got 151 Exp for killing Lv. 13 Solosis
+EV yield: {"spAtk":1}
+[LEVELUP] Now level 14
+14	0	3	1	1	4	4
+Ninetales (Lv. 14)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/1/4/4
+Current Exp: 2744 (0.00%)
+[KILL]: Got 191 Exp for killing Lv. 16 Hatenna
+EV yield: {"spAtk":1}
+Ninetales (Lv. 14)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/4/4
+Current Exp: 2935 (30.27%)
+[KILL]: Got 186 Exp for killing Lv. 15 Gothita
+EV yield: {"spDef":1}
+Ninetales (Lv. 14)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/5/4
+Current Exp: 3121 (59.75%)
+[KILL]: Got 181 Exp for killing Lv. 16 Gossifleur
+EV yield: {"spDef":1}
+Ninetales (Lv. 14)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/6/4
+Current Exp: 3302 (88.43%)
+[KILL]: Got 251 Exp for killing Lv. 19 Gossifleur
+EV yield: {"spDef":1}
+[LEVELUP] Now level 15
+15	0	3	1	2	7	4
+Ninetales (Lv. 15)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/7/4
+Current Exp: 3553 (24.69%)
+[KILL]: Got 839 Exp for killing Lv. 20 Eldegoss
+EV yield: {"spDef":2}
+[LEVELUP] Now level 16
+16	0	3	1	2	9	4
+Ninetales (Lv. 16)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/9/4
+Current Exp: 4392 (36.23%)
+[KILL]: Got 202 Exp for killing Lv. 17 Zigzagoon
+EV yield: {"spd":1}
+Ninetales (Lv. 16)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/9/5
+Current Exp: 4594 (60.95%)
+[KILL]: Got 640 Exp for killing Lv. 18 Thievul
+EV yield: {"spDef":2}
+[LEVELUP] Now level 17
+17	0	3	1	2	11	5
+Ninetales (Lv. 17)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/1/2/11/5
+Current Exp: 5234 (34.93%)
+[KILL]: Got 505 Exp for killing Lv. 18 Sableye
+EV yield: {"atk":1,"def":1}
+Ninetales (Lv. 17)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/2/2/11/5
+Current Exp: 5739 (89.88%)
+[KILL]: Got 464 Exp for killing Lv. 18 Wooloo
+EV yield: {"def":1}
+[LEVELUP] Now level 18
+18	0	4	3	2	11	5
+Ninetales (Lv. 18)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/3/2/11/5
+Current Exp: 6203 (36.12%)
+[KILL]: Got 513 Exp for killing Lv. 19 Corvisquire
+EV yield: {"spd":2}
+Ninetales (Lv. 18)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/3/2/11/7
+Current Exp: 6716 (86.08%)
+[KILL]: Got 716 Exp for killing Lv. 21 Thwackey
+EV yield: {"atk":2}
+[LEVELUP] Now level 19
+19	0	6	3	2	11	7
+Ninetales (Lv. 19)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/6/3/2/11/7
+Current Exp: 7432 (50.22%)

@@ -1,0 +1,245 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[CATCH]: Got 874 Exp for catching Lv. 55 Golurk
+Could not find EV Yield for: Golurk
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 190208 (8.20%)
+[CATCH]: Got 926 Exp for catching Lv. 55 Braviary
+Could not find EV Yield for: Braviary
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 191134 (16.88%)
+[CATCH]: Got 989 Exp for catching Lv. 56 Leafeon
+Could not find EV Yield for: Leafeon
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 192123 (26.15%)
+[CATCH]: Got 1616 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/3/0/0
+Current Exp: 193739 (41.30%)
+[KILL]: Got 859 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/6/0/0
+Current Exp: 194598 (49.36%)
+[KILL]: Got 537 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/2/6/0/0
+Current Exp: 195135 (54.39%)
+[KILL]: Got 550 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/6/0/0
+Current Exp: 195685 (59.55%)
+[KILL]: Got 899 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/3/2/6/0/0
+Current Exp: 196584 (67.98%)
+[KILL]: Got 593 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/2/6/0/0
+Current Exp: 197177 (73.54%)
+[KILL]: Got 585 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/2/6/0/0
+Current Exp: 197762 (79.02%)
+[KILL]: Got 575 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/9/2/6/1/0
+Current Exp: 198337 (84.42%)
+[KILL]: Got 585 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/0
+Current Exp: 198922 (89.90%)
+[KILL]: Got 571 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Chandelure (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/2
+Current Exp: 199493 (95.26%)
+[KILL]: Got 625 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+[LEVELUP] Now level 59
+59	2	11	3	6	2	2
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/3/6/2/2
+Current Exp: 200118 (1.08%)
+[KILL]: Got 615 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/2
+Current Exp: 200733 (6.64%)
+[KILL]: Got 574 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/4
+Current Exp: 201307 (11.83%)
+[KILL]: Got 1001 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/3/6/2/4
+Current Exp: 202308 (20.88%)
+[KILL]: Got 645 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/5/6/2/4
+Current Exp: 202953 (26.71%)
+[KILL]: Got 676 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/5/6/2/4
+Current Exp: 203629 (32.82%)
+[KILL]: Got 930 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/8/6/2/4
+Current Exp: 204559 (41.23%)
+[KILL]: Got 544 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/18/8/6/2/4
+Current Exp: 205103 (46.14%)
+[KILL]: Got 1041 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/8/6/2/4
+Current Exp: 206144 (55.56%)
+[KILL]: Got 208 Exp for killing Lv. 47 Meowth
+EV yield: {"def":1}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/9/6/2/4
+Current Exp: 206352 (57.44%)
+[KILL]: Got 605 Exp for killing Lv. 47 Durant
+EV yield: {"def":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/11/6/2/4
+Current Exp: 206957 (62.91%)
+[KILL]: Got 476 Exp for killing Lv. 47 Mawile
+EV yield: {"atk":1,"def":1}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/22/12/6/2/4
+Current Exp: 207433 (67.21%)
+[KILL]: Got 637 Exp for killing Lv. 47 Excadrill
+EV yield: {"atk":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/12/6/2/4
+Current Exp: 208070 (72.97%)
+[KILL]: Got 218 Exp for killing Lv. 47 Ferroseed
+EV yield: {"def":1}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/13/6/2/4
+Current Exp: 208288 (74.94%)
+[KILL]: Got 641 Exp for killing Lv. 47 Steelix
+EV yield: {"def":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/15/6/2/4
+Current Exp: 208929 (80.73%)
+[KILL]: Got 634 Exp for killing Lv. 48 Durant
+EV yield: {"def":2}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/17/6/2/4
+Current Exp: 209563 (86.47%)
+[KILL]: Got 247 Exp for killing Lv. 48 Cufant
+EV yield: {"atk":1}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/17/6/2/4
+Current Exp: 209810 (88.70%)
+[KILL]: Got 657 Exp for killing Lv. 48 Bronzong
+EV yield: {"def":1,"spDef":1}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/18/6/3/4
+Current Exp: 210467 (94.64%)
+[KILL]: Got 499 Exp for killing Lv. 48 Mawile
+EV yield: {"atk":1,"def":1}
+Chandelure (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/19/6/3/4
+Current Exp: 210966 (99.15%)
+[KILL]: Got 578 Exp for killing Lv. 48 Klang
+EV yield: {"def":2}
+[LEVELUP] Now level 60
+60	4	26	21	6	3	4
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/21/6/3/4
+Current Exp: 211544 (4.22%)
+[KILL]: Got 635 Exp for killing Lv. 49 Stunfisk
+EV yield: {"hp":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/21/6/3/4
+Current Exp: 212179 (9.76%)
+[KILL]: Got 689 Exp for killing Lv. 49 Steelix
+EV yield: {"def":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/4
+Current Exp: 212868 (15.77%)
+[KILL]: Got 676 Exp for killing Lv. 50 Froslass
+EV yield: {"spd":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/6
+Current Exp: 213544 (21.67%)
+[KILL]: Got 676 Exp for killing Lv. 50 Salazzle
+EV yield: {"spd":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/8
+Current Exp: 214220 (27.57%)
+[KILL]: Got 1026 Exp for killing Lv. 50 Tsareena
+EV yield: {"atk":3}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/3/8
+Current Exp: 215246 (36.52%)
+[KILL]: Got 794 Exp for killing Lv. 51 Milotic
+EV yield: {"spDef":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/5/8
+Current Exp: 216040 (43.45%)
+[KILL]: Got 729 Exp for killing Lv. 52 Garbador
+EV yield: {"atk":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/31/23/6/5/8
+Current Exp: 216769 (49.81%)
+[KILL]: Got 559 Exp for killing Lv. 51 Mawile
+EV yield: {"atk":1,"def":1}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/6/5/8
+Current Exp: 217328 (54.69%)
+[KILL]: Got 1089 Exp for killing Lv. 51 Gardevoir
+EV yield: {"spAtk":3}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/8
+Current Exp: 218417 (64.19%)
+[KILL]: Got 769 Exp for killing Lv. 52 Rapidash
+EV yield: {"spd":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/10
+Current Exp: 219186 (70.90%)
+[KILL]: Got 1167 Exp for killing Lv. 53 Hatterene
+EV yield: {"spAtk":3}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/12/5/10
+Current Exp: 220353 (81.08%)
+[KILL]: Got 782 Exp for killing Lv. 51 Golisopod
+EV yield: {"def":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/26/12/5/10
+Current Exp: 221135 (87.90%)
+[KILL]: Got 693 Exp for killing Lv. 52 Seaking
+EV yield: {"atk":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/26/12/5/10
+Current Exp: 221828 (93.95%)
+[KILL]: Got 648 Exp for killing Lv. 51 Pelipper
+EV yield: {"def":2}
+Chandelure (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/10
+Current Exp: 222476 (99.60%)
+[KILL]: Got 755 Exp for killing Lv. 52 Barraskewda
+EV yield: {"spd":2}
+[LEVELUP] Now level 61
+61	6	34	28	12	5	12
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/12
+Current Exp: 223231 (5.97%)
+[KILL]: Got 763 Exp for killing Lv. 53 Drednaw
+EV yield: {"atk":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/36/28/12/5/12
+Current Exp: 223994 (12.40%)
+[KILL]: Got 753 Exp for killing Lv. 52 Hawlucha
+EV yield: {"atk":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/38/28/12/5/12
+Current Exp: 224747 (18.74%)
+[KILL]: Got 740 Exp for killing Lv. 53 Falinks
+EV yield: {"atk":2,"spDef":1}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/40/28/12/6/12
+Current Exp: 225487 (24.98%)
+[KILL]: Got 722 Exp for killing Lv. 52 Grapploct
+EV yield: {"atk":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/42/28/12/6/12
+Current Exp: 226209 (31.06%)
+[KILL]: Got 794 Exp for killing Lv. 53 Sirfetch’d
+EV yield: {"atk":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/44/28/12/6/12
+Current Exp: 227003 (37.75%)
+[KILL]: Got 1183 Exp for killing Lv. 54 Machamp
+EV yield: {"atk":3}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/28/12/6/12
+Current Exp: 228186 (47.71%)
+[KILL]: Got 1481 Exp for killing Lv. 53 Torkoal
+EV yield: {"def":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/30/12/6/12
+Current Exp: 229667 (60.19%)
+[KILL]: Got 1590 Exp for killing Lv. 54 Turtonator
+EV yield: {"def":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/32/12/6/12
+Current Exp: 231257 (73.58%)
+[KILL]: Got 2432 Exp for killing Lv. 54 Flygon
+EV yield: {"atk":1,"spd":2}
+Chandelure (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/48/32/12/6/14
+Current Exp: 233689 (94.07%)
+[KILL]: Got 2806 Exp for killing Lv. 54 Goodra
+EV yield: {"spDef":3}
+[LEVELUP] Now level 62
+62	6	48	32	12	9	14
+Chandelure (Lv. 62)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/48/32/12/9/14
+Current Exp: 236495 (17.11%)
+[KILL]: Got 1786 Exp for killing Lv. 55 Duraludon
+EV yield: {"spAtk":2}
+Chandelure (Lv. 62)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/48/32/14/9/14
+Current Exp: 238281 (31.64%)

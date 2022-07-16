@@ -1,0 +1,159 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[LEVEL BONUS]
+[KILL]: Got 222 Exp for killing Lv. 29 Stunky
+EV yield: {"spd":1}
+Natu (Lv. 30)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/1
+Current Exp: 27222 (7.95%)
+[LEVEL BONUS]
+[KILL]: Got 530 Exp for killing Lv. 30 Linoone
+EV yield: {"spd":2}
+Natu (Lv. 30)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/3
+Current Exp: 27752 (26.94%)
+[LEVEL BONUS]
+[KILL]: Got 563 Exp for killing Lv. 30 Liepard
+EV yield: {"spd":2}
+Natu (Lv. 30)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/5
+Current Exp: 28315 (47.12%)
+[LEVEL BONUS]
+[KILL]: Got 379 Exp for killing Lv. 29 Clefairy
+EV yield: {"hp":2}
+Natu (Lv. 30)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/0/0/5
+Current Exp: 28694 (60.70%)
+[LEVEL BONUS]
+[KILL]: Got 872 Exp for killing Lv. 30 Clefable
+EV yield: {"hp":3}
+Natu (Lv. 30)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/0/0/0/0/5
+Current Exp: 29566 (91.94%)
+[LEVEL BONUS]
+[KILL]: Got 228 Exp for killing Lv. 29 Koffing
+EV yield: {"def":1}
+[LEVELUP] Now level 31
+31	5	0	1	0	0	5
+Natu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/0/1/0/0/5
+Current Exp: 29794 (0.10%)
+[LEVEL BONUS]
+[KILL]: Got 536 Exp for killing Lv. 31 Sudowoodo
+EV yield: {"def":2}
+Natu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/0/3/0/0/5
+Current Exp: 30330 (18.11%)
+[EVOLUTION]
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/0/3/0/0/5
+Current Exp: 30330 (18.11%)
+[KILL]: Got 448 Exp for killing Lv. 29 Cramorant
+EV yield: {"spDef":2}
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/0/3/0/2/5
+Current Exp: 30778 (33.15%)
+[KILL]: Got 519 Exp for killing Lv. 33 Thwackey
+EV yield: {"atk":2}
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/2/3/0/2/5
+Current Exp: 31297 (50.59%)
+[KILL]: Got 183 Exp for killing Lv. 30 Silicobra
+EV yield: {"def":1}
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/2/4/0/2/5
+Current Exp: 31480 (56.73%)
+[KILL]: Got 130 Exp for killing Lv. 29 Toxel
+EV yield: {"spAtk":1}
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/2/4/1/2/5
+Current Exp: 31610 (61.10%)
+[KILL]: Got 211 Exp for killing Lv. 31 Stufful
+EV yield: {"atk":1}
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/3/4/1/2/5
+Current Exp: 31821 (68.19%)
+[KILL]: Got 580 Exp for killing Lv. 32 Bewear
+EV yield: {"atk":2}
+Xatu (Lv. 31)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/5/4/1/2/5
+Current Exp: 32401 (87.67%)
+[KILL]: Got 437 Exp for killing Lv. 32 Farfetch’d
+EV yield: {"atk":1}
+[LEVELUP] Now level 32
+32	5	6	4	1	2	5
+Xatu (Lv. 32)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/6/4/1/2/5
+Current Exp: 32838 (2.21%)
+[KILL]: Got 542 Exp for killing Lv. 33 Hitmonlee
+EV yield: {"atk":2}
+Xatu (Lv. 32)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/4/1/2/5
+Current Exp: 33380 (19.31%)
+[KILL]: Got 542 Exp for killing Lv. 33 Hitmonchan
+EV yield: {"spDef":2}
+Xatu (Lv. 32)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/4/1/4/5
+Current Exp: 33922 (36.42%)
+[KILL]: Got 577 Exp for killing Lv. 34 Hitmontop
+EV yield: {"spDef":2}
+Xatu (Lv. 32)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/4/1/6/5
+Current Exp: 34499 (54.62%)
+[KILL]: Got 628 Exp for killing Lv. 34 Pangoro
+EV yield: {"atk":2}
+Xatu (Lv. 32)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/10/4/1/6/5
+Current Exp: 35127 (74.44%)
+[KILL]: Got 682 Exp for killing Lv. 35 Sirfetch’d
+EV yield: {"atk":2}
+Xatu (Lv. 32)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/12/4/1/6/5
+Current Exp: 35809 (95.96%)
+[KILL]: Got 974 Exp for killing Lv. 35 Machamp
+EV yield: {"atk":3}
+[LEVELUP] Now level 33
+33	5	15	4	1	6	5
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/15/4/1/6/5
+Current Exp: 36783 (25.13%)
+[KILL]: Got 403 Exp for killing Lv. 32 Duosion
+EV yield: {"spAtk":2}
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/15/4/3/6/5
+Current Exp: 37186 (37.10%)
+[KILL]: Got 485 Exp for killing Lv. 35 Hattrem
+EV yield: {"spAtk":2}
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/15/4/5/6/5
+Current Exp: 37671 (51.50%)
+[KILL]: Got 271 Exp for killing Lv. 33 Ponyta
+EV yield: {"spd":1}
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/15/4/5/6/6
+Current Exp: 37942 (59.55%)
+[KILL]: Got 424 Exp for killing Lv. 32 Gothorita
+EV yield: {"spDef":2}
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/15/4/5/8/6
+Current Exp: 38366 (72.14%)
+[KILL]: Got 239 Exp for killing Lv. 34 Spritzee
+EV yield: {"hp":1}
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/15/4/5/8/6
+Current Exp: 38605 (79.24%)
+[KILL]: Got 590 Exp for killing Lv. 34 Slurpuff
+EV yield: {"def":2}
+Xatu (Lv. 33)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/15/6/5/8/6
+Current Exp: 39195 (96.76%)
+[KILL]: Got 239 Exp for killing Lv. 34 Swirlix
+EV yield: {"def":1}
+[LEVELUP] Now level 34
+34	6	15	7	5	8	6
+Xatu (Lv. 34)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/15/7/5/8/6
+Current Exp: 39434 (3.64%)
+[KILL]: Got 551 Exp for killing Lv. 34 Aromatisse
+EV yield: {"hp":2}
+Xatu (Lv. 34)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/15/7/5/8/6
+Current Exp: 39985 (19.07%)
+[KILL]: Got 470 Exp for killing Lv. 35 Morgrem
+EV yield: {"spAtk":2}
+Xatu (Lv. 34)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/15/7/7/8/6
+Current Exp: 40455 (32.23%)
+[KILL]: Got 935 Exp for killing Lv. 35 Gardevoir
+EV yield: {"spAtk":3}
+Xatu (Lv. 34)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/15/7/10/8/6
+Current Exp: 41390 (58.42%)
+[KILL]: Got 1317 Exp for killing Lv. 36 Weezing
+EV yield: {"def":2}
+Xatu (Lv. 34)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/15/9/10/8/6
+Current Exp: 42707 (95.30%)
+[KILL]: Got 2213 Exp for killing Lv. 37 Togekiss
+EV yield: {"spAtk":2,"spDef":1}
+[LEVELUP] Now level 35
+35	8	15	9	12	9	6
+Xatu (Lv. 35)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/15/9/12/9/6
+Current Exp: 44920 (54.09%)
+[KILL]: Got 987 Exp for killing Lv. 36 Mawile
+EV yield: {"atk":1,"def":1}
+Xatu (Lv. 35)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/16/10/12/9/6
+Current Exp: 45907 (80.19%)
+[KILL]: Got 1436 Exp for killing Lv. 38 Alcremie
+EV yield: {"spDef":2}
+[LEVELUP] Now level 36
+36	8	16	10	12	11	6
+Xatu (Lv. 36)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/16/10/12/11/6
+Current Exp: 47343 (17.19%)

@@ -1,0 +1,147 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[KILL]: Got 822 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/3/0/0
+Current Exp: 270822 (5.99%)
+[KILL]: Got 514 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/2/3/0/0
+Current Exp: 271336 (9.73%)
+[KILL]: Got 527 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/3/0/0
+Current Exp: 271863 (13.57%)
+[KILL]: Got 860 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/3/2/3/0/0
+Current Exp: 272723 (19.84%)
+[KILL]: Got 567 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/2/3/0/0
+Current Exp: 273290 (23.97%)
+[KILL]: Got 560 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/2/3/0/0
+Current Exp: 273850 (28.05%)
+[KILL]: Got 551 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/9/2/3/1/0
+Current Exp: 274401 (32.06%)
+[KILL]: Got 560 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/3/1/0
+Current Exp: 274961 (36.14%)
+[KILL]: Got 547 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/3/1/2
+Current Exp: 275508 (40.13%)
+[KILL]: Got 599 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/3/3/2/2
+Current Exp: 276107 (44.49%)
+[KILL]: Got 602 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/3/2/2
+Current Exp: 276709 (48.88%)
+[KILL]: Got 562 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/3/2/4
+Current Exp: 277271 (52.97%)
+[KILL]: Got 981 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/3/3/2/4
+Current Exp: 278252 (60.12%)
+[KILL]: Got 631 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/5/3/2/4
+Current Exp: 278883 (64.72%)
+[KILL]: Got 662 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/5/3/2/4
+Current Exp: 279545 (69.54%)
+[KILL]: Got 911 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/8/3/2/4
+Current Exp: 280456 (76.18%)
+[KILL]: Got 532 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/18/8/3/2/4
+Current Exp: 280988 (80.05%)
+[KILL]: Got 1019 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/8/3/2/4
+Current Exp: 282007 (87.48%)
+[KILL]: Got 203 Exp for killing Lv. 47 Meowth
+EV yield: {"def":1}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/9/3/2/4
+Current Exp: 282210 (88.96%)
+[KILL]: Got 592 Exp for killing Lv. 47 Durant
+EV yield: {"def":2}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/11/3/2/4
+Current Exp: 282802 (93.27%)
+[KILL]: Got 466 Exp for killing Lv. 47 Mawile
+EV yield: {"atk":1,"def":1}
+Gardevoir (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/22/12/3/2/4
+Current Exp: 283268 (96.66%)
+[KILL]: Got 623 Exp for killing Lv. 47 Excadrill
+EV yield: {"atk":2}
+[LEVELUP] Now level 61
+61	4	24	12	3	2	4
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/12/3/2/4
+Current Exp: 283891 (1.16%)
+[KILL]: Got 209 Exp for killing Lv. 47 Ferroseed
+EV yield: {"def":1}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/13/3/2/4
+Current Exp: 284100 (2.64%)
+[KILL]: Got 614 Exp for killing Lv. 47 Steelix
+EV yield: {"def":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/15/3/2/4
+Current Exp: 284714 (6.97%)
+[KILL]: Got 608 Exp for killing Lv. 48 Durant
+EV yield: {"def":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/17/3/2/4
+Current Exp: 285322 (11.25%)
+[KILL]: Got 237 Exp for killing Lv. 48 Cufant
+EV yield: {"atk":1}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/17/3/2/4
+Current Exp: 285559 (12.92%)
+[KILL]: Got 630 Exp for killing Lv. 48 Bronzong
+EV yield: {"def":1,"spDef":1}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/18/3/3/4
+Current Exp: 286189 (17.36%)
+[KILL]: Got 478 Exp for killing Lv. 48 Mawile
+EV yield: {"atk":1,"def":1}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/19/3/3/4
+Current Exp: 286667 (20.73%)
+[KILL]: Got 554 Exp for killing Lv. 48 Klang
+EV yield: {"def":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/21/3/3/4
+Current Exp: 287221 (24.64%)
+[KILL]: Got 621 Exp for killing Lv. 49 Stunfisk
+EV yield: {"hp":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/21/3/3/4
+Current Exp: 287842 (29.02%)
+[KILL]: Got 674 Exp for killing Lv. 49 Steelix
+EV yield: {"def":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/3/3/4
+Current Exp: 288516 (33.77%)
+[KILL]: Got 1324 Exp for killing Lv. 50 Froslass
+EV yield: {"spd":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/3/3/6
+Current Exp: 289840 (43.10%)
+[KILL]: Got 1324 Exp for killing Lv. 50 Salazzle
+EV yield: {"spd":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/3/3/8
+Current Exp: 291164 (52.44%)
+[KILL]: Got 2010 Exp for killing Lv. 50 Tsareena
+EV yield: {"atk":3}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/3/3/8
+Current Exp: 293174 (66.61%)
+[KILL]: Got 1557 Exp for killing Lv. 51 Milotic
+EV yield: {"spDef":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/3/5/8
+Current Exp: 294731 (77.59%)
+[KILL]: Got 1428 Exp for killing Lv. 52 Garbador
+EV yield: {"atk":2}
+Gardevoir (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/31/23/3/5/8
+Current Exp: 296159 (87.66%)

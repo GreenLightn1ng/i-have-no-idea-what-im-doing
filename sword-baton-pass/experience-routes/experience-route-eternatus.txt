@@ -1,0 +1,27 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[KILL]: Got 3013 Exp for killing Lv. 62 AegislashBF
+EV yield: {"atk":2,"spAtk":1}
+Eternatus (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/1/0/0
+Current Exp: 273013 (21.95%)
+[KILL]: Got 2507 Exp for killing Lv. 64 MrRime
+EV yield: {"spAtk":3}
+Eternatus (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/4/0/0
+Current Exp: 275520 (40.22%)
+[KILL]: Got 3237 Exp for killing Lv. 63 Haxorus
+EV yield: {"atk":3}
+Eternatus (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/0/4/0/0
+Current Exp: 278757 (63.80%)
+[KILL]: Got 3651 Exp for killing Lv. 64 Inteleon
+EV yield: {"spd":3}
+Eternatus (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/0/4/0/3
+Current Exp: 282408 (90.40%)
+[KILL]: Got 3863 Exp for killing Lv. 62 Dragapult
+EV yield: {"spd":3}
+[LEVELUP] Now level 61
+61	0	5	0	4	0	6
+Eternatus (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/0/4/0/6
+Current Exp: 286271 (17.94%)
+[KILL]: Got 3355 Exp for killing Lv. 65 Charizard
+EV yield: {"spAtk":3}
+Eternatus (Lv. 61)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/0/7/0/6
+Current Exp: 289626 (41.60%)

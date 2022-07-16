@@ -1,0 +1,29 @@
+"C:\Program Files\nodejs\node.exe" ".\..\SwordEXP\Generic Sword Exp Guide.js"
+[CATCH]: Got 289 Exp for catching Lv. 24 Vulpix
+EV yield: {"spd":1}
+Drednaw (Lv. 24)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/1
+Current Exp: 14113 (16.05%)
+[CATCH]: Got 287 Exp for catching Lv. 25 Litwick
+EV yield: {"spAtk":1}
+Drednaw (Lv. 24)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/1/0/1
+Current Exp: 14400 (31.98%)
+[KILL]: Got 289 Exp for killing Lv. 24 Vulpix
+EV yield: {"spd":1}
+Drednaw (Lv. 24)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/1/0/2
+Current Exp: 14689 (48.03%)
+[KILL]: Got 923 Exp for killing Lv. 25 Ninetales
+EV yield: {"spDef":1,"spd":1}
+Drednaw (Lv. 24)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/1/1/3
+Current Exp: 15612 (99.28%)
+[KILL]: Got 1012 Exp for killing Lv. 25 Arcanine
+EV yield: {"atk":2}
+[LEVELUP] Now level 25
+25	0	2	0	1	1	3
+Drednaw (Lv. 25)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/1/1/3
+Current Exp: 16624 (51.20%)
+[KILL]: Got 1076 Exp for killing Lv. 27 Centiskorch
+EV yield: {"atk":2}
+[LEVELUP] Now level 26
+26	0	4	0	1	1	3
+Drednaw (Lv. 26)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/0/1/1/3
+Current Exp: 17700 (5.89%)

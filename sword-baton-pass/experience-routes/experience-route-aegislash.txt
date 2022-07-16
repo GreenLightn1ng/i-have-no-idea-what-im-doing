@@ -1,0 +1,79 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[CATCH]: Got 1048 Exp for catching Lv. 56 Lapras
+EV yield: {"hp":2}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/0/0/0
+Current Exp: 176664 (10.94%)
+[CATCH]: Got 701 Exp for catching Lv. 55 Lampent
+EV yield: {"spAtk":2}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/2/0/0
+Current Exp: 177365 (18.26%)
+[CATCH]: Got 910 Exp for catching Lv. 55 Golurk
+Could not find EV Yield for: Golurk
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/2/0/0
+Current Exp: 178275 (27.76%)
+[CATCH]: Got 964 Exp for catching Lv. 55 Braviary
+Could not find EV Yield for: Braviary
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/2/0/0
+Current Exp: 179239 (37.83%)
+[CATCH]: Got 1031 Exp for catching Lv. 56 Leafeon
+Could not find EV Yield for: Leafeon
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/2/0/0
+Current Exp: 180270 (48.60%)
+[CATCH]: Got 1681 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/5/0/0
+Current Exp: 181951 (66.15%)
+[KILL]: Got 898 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/0/8/0/0
+Current Exp: 182849 (75.52%)
+[KILL]: Got 561 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/8/0/0
+Current Exp: 183410 (81.38%)
+[KILL]: Got 575 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/0/2/8/0/0
+Current Exp: 183985 (87.39%)
+[KILL]: Got 939 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Aegislash (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/3/2/8/0/0
+Current Exp: 184924 (97.19%)
+[KILL]: Got 619 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+[LEVELUP] Now level 57
+57	4	5	2	8	0	0
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/5/2/8/0/0
+Current Exp: 185543 (3.53%)
+[KILL]: Got 598 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/7/2/8/0/0
+Current Exp: 186141 (9.56%)
+[KILL]: Got 588 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/9/2/8/1/0
+Current Exp: 186729 (15.49%)
+[KILL]: Got 598 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/11/2/8/1/0
+Current Exp: 187327 (21.51%)
+[KILL]: Got 1166 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/11/2/8/1/2
+Current Exp: 188493 (33.27%)
+[KILL]: Got 1278 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/11/3/8/2/2
+Current Exp: 189771 (46.15%)
+[KILL]: Got 1285 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/13/3/8/2/2
+Current Exp: 191056 (59.11%)
+[KILL]: Got 1198 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/13/3/8/2/4
+Current Exp: 192254 (71.19%)
+[KILL]: Got 2091 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Aegislash (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/3/8/2/4
+Current Exp: 194345 (92.27%)

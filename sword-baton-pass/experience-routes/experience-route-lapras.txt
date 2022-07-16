@@ -1,0 +1,95 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[CATCH]: Got 701 Exp for catching Lv. 55 Lampent
+EV yield: {"spAtk":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/2/0/0
+Current Exp: 220221 (5.86%)
+[CATCH]: Got 910 Exp for catching Lv. 55 Golurk
+Could not find EV Yield for: Golurk
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/2/0/0
+Current Exp: 221131 (13.46%)
+[CATCH]: Got 964 Exp for catching Lv. 55 Braviary
+Could not find EV Yield for: Braviary
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/2/0/0
+Current Exp: 222095 (21.51%)
+[CATCH]: Got 1031 Exp for catching Lv. 56 Leafeon
+Could not find EV Yield for: Leafeon
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/2/0/0
+Current Exp: 223126 (30.12%)
+[CATCH]: Got 1681 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/5/0/0
+Current Exp: 224807 (44.17%)
+[KILL]: Got 898 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/8/0/0
+Current Exp: 225705 (51.67%)
+[KILL]: Got 561 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/2/8/0/0
+Current Exp: 226266 (56.35%)
+[KILL]: Got 575 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/8/0/0
+Current Exp: 226841 (61.16%)
+[KILL]: Got 939 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/3/2/8/0/0
+Current Exp: 227780 (69.00%)
+[KILL]: Got 619 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/2/8/0/0
+Current Exp: 228399 (74.17%)
+[KILL]: Got 612 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/2/8/0/0
+Current Exp: 229011 (79.28%)
+[KILL]: Got 601 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/9/2/8/1/0
+Current Exp: 229612 (84.30%)
+[KILL]: Got 612 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/8/1/0
+Current Exp: 230224 (89.42%)
+[KILL]: Got 596 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/8/1/2
+Current Exp: 230820 (94.39%)
+[KILL]: Got 653 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Lapras (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/3/8/2/2
+Current Exp: 231473 (99.85%)
+[KILL]: Got 657 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+[LEVELUP] Now level 57
+57	2	13	3	8	2	2
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/8/2/2
+Current Exp: 232130 (5.15%)
+[KILL]: Got 599 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/8/2/4
+Current Exp: 232729 (9.98%)
+[KILL]: Got 1045 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/3/8/2/4
+Current Exp: 233774 (18.41%)
+[KILL]: Got 1347 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/5/8/2/4
+Current Exp: 235121 (29.28%)
+[KILL]: Got 1412 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/5/8/2/4
+Current Exp: 236533 (40.66%)
+[KILL]: Got 1942 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/8/8/2/4
+Current Exp: 238475 (56.33%)
+[KILL]: Got 1136 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/18/8/8/2/4
+Current Exp: 239611 (65.49%)
+[KILL]: Got 2173 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Lapras (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/8/8/2/4
+Current Exp: 241784 (83.01%)

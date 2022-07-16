@@ -1,0 +1,27 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\BatonPassExpRoute.js
+[KILL]: Got 236 Exp for killing Lv. 21 Tympole
+EV yield: {"spd":1}
+Eldegoss (Lv. 22)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/1
+Current Exp: 10884 (15.54%)
+[KILL]: Got 236 Exp for killing Lv. 20 Krabby
+EV yield: {"atk":1}
+Eldegoss (Lv. 22)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/1/0/0/0/1
+Current Exp: 11120 (31.07%)
+[KILL]: Got 225 Exp for killing Lv. 20 Corphish
+EV yield: {"atk":1}
+Eldegoss (Lv. 22)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/0/0/1
+Current Exp: 11345 (45.89%)
+[KILL]: Got 282 Exp for killing Lv. 22 Goldeen
+EV yield: {"atk":1}
+Eldegoss (Lv. 22)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/0/0/0/1
+Current Exp: 11627 (64.45%)
+[KILL]: Got 269 Exp for killing Lv. 23 Arrokuda
+EV yield: {"spd":1}
+Eldegoss (Lv. 22)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/3/0/0/0/2
+Current Exp: 11896 (82.16%)
+[KILL]: Got 891 Exp for killing Lv. 24 Drednaw
+EV yield: {"atk":2}
+[LEVELUP] Now level 23
+23	0	5	0	0	0	2
+Eldegoss (Lv. 23)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/0/0/0/2
+Current Exp: 12787 (37.42%)

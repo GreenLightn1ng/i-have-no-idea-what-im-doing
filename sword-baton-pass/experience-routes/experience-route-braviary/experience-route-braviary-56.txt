@@ -1,0 +1,215 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[CATCH]: Got 1031 Exp for catching Lv. 56 Leafeon
+Could not find EV Yield for: Leafeon
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 220551 (8.61%)
+[CATCH]: Got 1681 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/3/0/0
+Current Exp: 222232 (22.65%)
+[KILL]: Got 898 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/6/0/0
+Current Exp: 223130 (30.16%)
+[KILL]: Got 561 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/2/6/0/0
+Current Exp: 223691 (34.84%)
+[KILL]: Got 575 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/6/0/0
+Current Exp: 224266 (39.65%)
+[KILL]: Got 939 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/3/2/6/0/0
+Current Exp: 225205 (47.49%)
+[KILL]: Got 619 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/2/6/0/0
+Current Exp: 225824 (52.66%)
+[KILL]: Got 612 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/2/6/0/0
+Current Exp: 226436 (57.77%)
+[KILL]: Got 601 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/9/2/6/1/0
+Current Exp: 227037 (62.79%)
+[KILL]: Got 612 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/0
+Current Exp: 227649 (67.91%)
+[KILL]: Got 596 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/2
+Current Exp: 228245 (72.88%)
+[KILL]: Got 653 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/3/6/2/2
+Current Exp: 228898 (78.34%)
+[KILL]: Got 657 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/2
+Current Exp: 229555 (83.83%)
+[KILL]: Got 612 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/4
+Current Exp: 230167 (88.94%)
+[KILL]: Got 1068 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Braviary (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/3/6/2/4
+Current Exp: 231235 (97.86%)
+[KILL]: Got 688 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+[LEVELUP] Now level 57
+57	2	16	5	6	2	4
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/5/6/2/4
+Current Exp: 231923 (3.48%)
+[KILL]: Got 706 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/5/6/2/4
+Current Exp: 232629 (9.18%)
+[KILL]: Got 971 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/8/6/2/4
+Current Exp: 233600 (17.01%)
+[KILL]: Got 568 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/18/8/6/2/4
+Current Exp: 234168 (21.59%)
+[KILL]: Got 1086 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/8/6/2/4
+Current Exp: 235254 (30.35%)
+[KILL]: Got 217 Exp for killing Lv. 47 Meowth
+EV yield: {"def":1}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/9/6/2/4
+Current Exp: 235471 (32.10%)
+[KILL]: Got 632 Exp for killing Lv. 47 Durant
+EV yield: {"def":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/11/6/2/4
+Current Exp: 236103 (37.20%)
+[KILL]: Got 497 Exp for killing Lv. 47 Mawile
+EV yield: {"atk":1,"def":1}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/22/12/6/2/4
+Current Exp: 236600 (41.20%)
+[KILL]: Got 665 Exp for killing Lv. 47 Excadrill
+EV yield: {"atk":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/12/6/2/4
+Current Exp: 237265 (46.57%)
+[KILL]: Got 228 Exp for killing Lv. 47 Ferroseed
+EV yield: {"def":1}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/13/6/2/4
+Current Exp: 237493 (48.41%)
+[KILL]: Got 669 Exp for killing Lv. 47 Steelix
+EV yield: {"def":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/15/6/2/4
+Current Exp: 238162 (53.80%)
+[KILL]: Got 662 Exp for killing Lv. 48 Durant
+EV yield: {"def":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/17/6/2/4
+Current Exp: 238824 (59.14%)
+[KILL]: Got 258 Exp for killing Lv. 48 Cufant
+EV yield: {"atk":1}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/17/6/2/4
+Current Exp: 239082 (61.22%)
+[KILL]: Got 686 Exp for killing Lv. 48 Bronzong
+EV yield: {"def":1,"spDef":1}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/18/6/3/4
+Current Exp: 239768 (66.76%)
+[KILL]: Got 521 Exp for killing Lv. 48 Mawile
+EV yield: {"atk":1,"def":1}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/19/6/3/4
+Current Exp: 240289 (70.96%)
+[KILL]: Got 603 Exp for killing Lv. 48 Klang
+EV yield: {"def":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/21/6/3/4
+Current Exp: 240892 (75.82%)
+[KILL]: Got 676 Exp for killing Lv. 49 Stunfisk
+EV yield: {"hp":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/21/6/3/4
+Current Exp: 241568 (81.27%)
+[KILL]: Got 734 Exp for killing Lv. 49 Steelix
+EV yield: {"def":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/4
+Current Exp: 242302 (87.19%)
+[KILL]: Got 720 Exp for killing Lv. 50 Froslass
+EV yield: {"spd":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/6
+Current Exp: 243022 (93.00%)
+[KILL]: Got 720 Exp for killing Lv. 50 Salazzle
+EV yield: {"spd":2}
+Braviary (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/8
+Current Exp: 243742 (98.81%)
+[KILL]: Got 1093 Exp for killing Lv. 50 Tsareena
+EV yield: {"atk":3}
+[LEVELUP] Now level 58
+58	6	29	23	6	3	8
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/3/8
+Current Exp: 244835 (7.36%)
+[KILL]: Got 828 Exp for killing Lv. 51 Milotic
+EV yield: {"spDef":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/5/8
+Current Exp: 245663 (13.82%)
+[KILL]: Got 760 Exp for killing Lv. 52 Garbador
+EV yield: {"atk":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/31/23/6/5/8
+Current Exp: 246423 (19.74%)
+[KILL]: Got 583 Exp for killing Lv. 51 Mawile
+EV yield: {"atk":1,"def":1}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/6/5/8
+Current Exp: 247006 (24.28%)
+[KILL]: Got 1135 Exp for killing Lv. 51 Gardevoir
+EV yield: {"spAtk":3}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/8
+Current Exp: 248141 (33.13%)
+[KILL]: Got 801 Exp for killing Lv. 52 Rapidash
+EV yield: {"spd":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/10
+Current Exp: 248942 (39.37%)
+[KILL]: Got 1216 Exp for killing Lv. 53 Hatterene
+EV yield: {"spAtk":3}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/12/5/10
+Current Exp: 250158 (48.84%)
+[KILL]: Got 815 Exp for killing Lv. 51 Golisopod
+EV yield: {"def":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/26/12/5/10
+Current Exp: 250973 (55.19%)
+[KILL]: Got 723 Exp for killing Lv. 52 Seaking
+EV yield: {"atk":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/26/12/5/10
+Current Exp: 251696 (60.83%)
+[KILL]: Got 675 Exp for killing Lv. 51 Pelipper
+EV yield: {"def":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/10
+Current Exp: 252371 (66.09%)
+[KILL]: Got 787 Exp for killing Lv. 52 Barraskewda
+EV yield: {"spd":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/12
+Current Exp: 253158 (72.22%)
+[KILL]: Got 811 Exp for killing Lv. 53 Drednaw
+EV yield: {"atk":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/36/28/12/5/12
+Current Exp: 253969 (78.54%)
+[KILL]: Got 1601 Exp for killing Lv. 52 Hawlucha
+EV yield: {"atk":2}
+Braviary (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/38/28/12/5/12
+Current Exp: 255570 (91.02%)
+[KILL]: Got 1574 Exp for killing Lv. 53 Falinks
+EV yield: {"atk":2,"spDef":1}
+[LEVELUP] Now level 59
+59	6	40	28	12	6	12
+Braviary (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/40/28/12/6/12
+Current Exp: 257144 (3.17%)
+[KILL]: Got 1506 Exp for killing Lv. 52 Grapploct
+EV yield: {"atk":2}
+Braviary (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/42/28/12/6/12
+Current Exp: 258650 (14.51%)
+[KILL]: Got 1654 Exp for killing Lv. 53 Sirfetch’d
+EV yield: {"atk":2}
+Braviary (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/44/28/12/6/12
+Current Exp: 260304 (26.97%)
+[KILL]: Got 2463 Exp for killing Lv. 54 Machamp
+EV yield: {"atk":3}
+Braviary (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/28/12/6/12
+Current Exp: 262767 (45.52%)

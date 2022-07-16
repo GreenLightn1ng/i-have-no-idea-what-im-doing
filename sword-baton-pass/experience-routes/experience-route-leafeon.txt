@@ -1,0 +1,191 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[CATCH]: Got 1681 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/3/0/0
+Current Exp: 177297 (17.55%)
+[KILL]: Got 898 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/6/0/0
+Current Exp: 178195 (26.93%)
+[KILL]: Got 561 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/2/6/0/0
+Current Exp: 178756 (32.79%)
+[KILL]: Got 575 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/6/0/0
+Current Exp: 179331 (38.79%)
+[KILL]: Got 939 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/3/2/6/0/0
+Current Exp: 180270 (48.60%)
+[KILL]: Got 619 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/2/6/0/0
+Current Exp: 180889 (55.06%)
+[KILL]: Got 612 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/2/6/0/0
+Current Exp: 181501 (61.45%)
+[KILL]: Got 601 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/9/2/6/1/0
+Current Exp: 182102 (67.72%)
+[KILL]: Got 612 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/0
+Current Exp: 182714 (74.12%)
+[KILL]: Got 596 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/2
+Current Exp: 183310 (80.34%)
+[KILL]: Got 653 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/3/6/2/2
+Current Exp: 183963 (87.16%)
+[KILL]: Got 657 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Leafeon (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/2
+Current Exp: 184620 (94.02%)
+[KILL]: Got 612 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+[LEVELUP] Now level 57
+57	2	13	3	6	2	4
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/4
+Current Exp: 185232 (0.39%)
+[KILL]: Got 1045 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/3/6/2/4
+Current Exp: 186277 (10.93%)
+[KILL]: Got 673 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/5/6/2/4
+Current Exp: 186950 (17.71%)
+[KILL]: Got 706 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/5/6/2/4
+Current Exp: 187656 (24.83%)
+[KILL]: Got 971 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/8/6/2/4
+Current Exp: 188627 (34.62%)
+[KILL]: Got 568 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/18/8/6/2/4
+Current Exp: 189195 (40.35%)
+[KILL]: Got 1086 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/8/6/2/4
+Current Exp: 190281 (51.30%)
+[KILL]: Got 217 Exp for killing Lv. 47 Meowth
+EV yield: {"def":1}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/9/6/2/4
+Current Exp: 190498 (53.48%)
+[KILL]: Got 632 Exp for killing Lv. 47 Durant
+EV yield: {"def":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/11/6/2/4
+Current Exp: 191130 (59.85%)
+[KILL]: Got 497 Exp for killing Lv. 47 Mawile
+EV yield: {"atk":1,"def":1}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/22/12/6/2/4
+Current Exp: 191627 (64.87%)
+[KILL]: Got 665 Exp for killing Lv. 47 Excadrill
+EV yield: {"atk":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/12/6/2/4
+Current Exp: 192292 (71.57%)
+[KILL]: Got 228 Exp for killing Lv. 47 Ferroseed
+EV yield: {"def":1}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/13/6/2/4
+Current Exp: 192520 (73.87%)
+[KILL]: Got 669 Exp for killing Lv. 47 Steelix
+EV yield: {"def":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/15/6/2/4
+Current Exp: 193189 (80.61%)
+[KILL]: Got 662 Exp for killing Lv. 48 Durant
+EV yield: {"def":2}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/17/6/2/4
+Current Exp: 193851 (87.29%)
+[KILL]: Got 258 Exp for killing Lv. 48 Cufant
+EV yield: {"atk":1}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/17/6/2/4
+Current Exp: 194109 (89.89%)
+[KILL]: Got 686 Exp for killing Lv. 48 Bronzong
+EV yield: {"def":1,"spDef":1}
+Leafeon (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/18/6/3/4
+Current Exp: 194795 (96.80%)
+[KILL]: Got 521 Exp for killing Lv. 48 Mawile
+EV yield: {"atk":1,"def":1}
+[LEVELUP] Now level 58
+58	4	26	19	6	3	4
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/19/6/3/4
+Current Exp: 195316 (1.99%)
+[KILL]: Got 590 Exp for killing Lv. 48 Klang
+EV yield: {"def":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/21/6/3/4
+Current Exp: 195906 (7.73%)
+[KILL]: Got 662 Exp for killing Lv. 49 Stunfisk
+EV yield: {"hp":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/21/6/3/4
+Current Exp: 196568 (14.18%)
+[KILL]: Got 718 Exp for killing Lv. 49 Steelix
+EV yield: {"def":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/4
+Current Exp: 197286 (21.17%)
+[KILL]: Got 705 Exp for killing Lv. 50 Froslass
+EV yield: {"spd":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/6
+Current Exp: 197991 (28.04%)
+[KILL]: Got 705 Exp for killing Lv. 50 Salazzle
+EV yield: {"spd":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/8
+Current Exp: 198696 (34.91%)
+[KILL]: Got 1070 Exp for killing Lv. 50 Tsareena
+EV yield: {"atk":3}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/3/8
+Current Exp: 199766 (45.33%)
+[KILL]: Got 828 Exp for killing Lv. 51 Milotic
+EV yield: {"spDef":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/5/8
+Current Exp: 200594 (53.39%)
+[KILL]: Got 760 Exp for killing Lv. 52 Garbador
+EV yield: {"atk":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/31/23/6/5/8
+Current Exp: 201354 (60.80%)
+[KILL]: Got 583 Exp for killing Lv. 51 Mawile
+EV yield: {"atk":1,"def":1}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/6/5/8
+Current Exp: 201937 (66.48%)
+[KILL]: Got 1135 Exp for killing Lv. 51 Gardevoir
+EV yield: {"spAtk":3}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/8
+Current Exp: 203072 (77.53%)
+[KILL]: Got 801 Exp for killing Lv. 52 Rapidash
+EV yield: {"spd":2}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/10
+Current Exp: 203873 (85.33%)
+[KILL]: Got 1216 Exp for killing Lv. 53 Hatterene
+EV yield: {"spAtk":3}
+Leafeon (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/12/5/10
+Current Exp: 205089 (97.18%)
+[KILL]: Got 1631 Exp for killing Lv. 51 Golisopod
+EV yield: {"def":2}
+[LEVELUP] Now level 59
+59	6	32	26	12	5	10
+Leafeon (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/26/12/5/10
+Current Exp: 206720 (12.63%)
+[KILL]: Got 1416 Exp for killing Lv. 52 Seaking
+EV yield: {"atk":2}
+Leafeon (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/26/12/5/10
+Current Exp: 208136 (25.96%)
+[KILL]: Got 1322 Exp for killing Lv. 51 Pelipper
+EV yield: {"def":2}
+Leafeon (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/10
+Current Exp: 209458 (38.41%)
+[KILL]: Got 1541 Exp for killing Lv. 52 Barraskewda
+EV yield: {"spd":2}
+Leafeon (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/12
+Current Exp: 210999 (52.91%)
+[KILL]: Got 1589 Exp for killing Lv. 53 Drednaw
+EV yield: {"atk":2}
+Leafeon (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/36/28/12/5/12
+Current Exp: 212588 (67.87%)

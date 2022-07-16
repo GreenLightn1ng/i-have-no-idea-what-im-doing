@@ -1,0 +1,47 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[KILL]: Got 430 Exp for killing Lv. 34 Trevenant
+EV yield: {"atk":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/0/0/0
+Current Exp: 99813 (6.06%)
+[KILL]: Got 437 Exp for killing Lv. 34 Heatmor
+EV yield: {"spAtk":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/2/0/0
+Current Exp: 100250 (12.22%)
+[KILL]: Got 521 Exp for killing Lv. 35 Snorlax
+EV yield: {"hp":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/2/0/2/0/0
+Current Exp: 100771 (19.56%)
+[KILL]: Got 475 Exp for killing Lv. 35 Boltund
+EV yield: {"spd":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/2/0/2/0/2
+Current Exp: 101246 (26.25%)
+[KILL]: Got 825 Exp for killing Lv. 37 Rillaboom
+EV yield: {"atk":3}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/0/2/0/2
+Current Exp: 102071 (37.88%)
+[KILL]: Got 411 Exp for killing Lv. 36 Roselia
+EV yield: {"spAtk":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/0/4/0/2
+Current Exp: 102482 (43.67%)
+[KILL]: Got 382 Exp for killing Lv. 36 Hattrem
+EV yield: {"spAtk":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/0/6/0/2
+Current Exp: 102864 (49.05%)
+[KILL]: Got 1290 Exp for killing Lv. 40 Barbaracle
+EV yield: {"atk":2}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/0/6/0/2
+Current Exp: 104154 (67.23%)
+[KILL]: Got 1305 Exp for killing Lv. 40 Shuckle
+EV yield: {"def":1,"spDef":1}
+Hippowdon (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/1/6/1/2
+Current Exp: 105459 (85.61%)
+[KILL]: Got 1283 Exp for killing Lv. 41 Stonjourner
+EV yield: {"def":2}
+[LEVELUP] Now level 44
+44	2	7	3	6	1	2
+Hippowdon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/3/6/1/2
+Current Exp: 106742 (3.53%)
+[KILL]: Got 2033 Exp for killing Lv. 42 Coalossal
+EV yield: {"def":3}
+Hippowdon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/6/6/1/2
+Current Exp: 108775 (30.90%)

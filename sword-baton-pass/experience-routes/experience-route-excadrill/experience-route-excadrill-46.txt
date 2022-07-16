@@ -1,0 +1,381 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[KILL]: Got 789 Exp for killing Lv. 34 Trevenant
+EV yield: {"atk":2}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/0/0/0
+Current Exp: 98125 (12.16%)
+[KILL]: Got 804 Exp for killing Lv. 34 Heatmor
+EV yield: {"spAtk":2}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/2/0/0
+Current Exp: 98929 (24.56%)
+[KILL]: Got 959 Exp for killing Lv. 35 Snorlax
+EV yield: {"hp":2}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/2/0/2/0/0
+Current Exp: 99888 (39.34%)
+[KILL]: Got 873 Exp for killing Lv. 35 Boltund
+EV yield: {"spd":2}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/2/0/2/0/2
+Current Exp: 100761 (52.80%)
+[KILL]: Got 1521 Exp for killing Lv. 37 Rillaboom
+EV yield: {"atk":3}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/0/2/0/2
+Current Exp: 102282 (76.24%)
+[KILL]: Got 757 Exp for killing Lv. 36 Roselia
+EV yield: {"spAtk":2}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/0/4/0/2
+Current Exp: 103039 (87.91%)
+[KILL]: Got 703 Exp for killing Lv. 36 Hattrem
+EV yield: {"spAtk":2}
+Excadrill (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/0/6/0/2
+Current Exp: 103742 (98.75%)
+[KILL]: Got 596 Exp for killing Lv. 40 Barbaracle
+EV yield: {"atk":2}
+[LEVELUP] Now level 47
+47	2	7	0	6	0	2
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/0/6/0/2
+Current Exp: 104338 (7.61%)
+[KILL]: Got 588 Exp for killing Lv. 40 Shuckle
+EV yield: {"def":1,"spDef":1}
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/1/6/1/2
+Current Exp: 104926 (16.29%)
+[KILL]: Got 578 Exp for killing Lv. 41 Stonjourner
+EV yield: {"def":2}
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/3/6/1/2
+Current Exp: 105504 (24.83%)
+[KILL]: Got 941 Exp for killing Lv. 42 Coalossal
+EV yield: {"def":3}
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/6/6/1/2
+Current Exp: 106445 (38.74%)
+[KILL]: Got 1142 Exp for killing Lv. 40 Dubwool
+EV yield: {"def":2}
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/8/6/1/2
+Current Exp: 107587 (55.61%)
+[KILL]: Got 1186 Exp for killing Lv. 39 Snorlax
+EV yield: {"hp":2}
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/7/8/6/1/2
+Current Exp: 108773 (73.13%)
+[KILL]: Got 1646 Exp for killing Lv. 40 Corviknight
+EV yield: {"def":3}
+Excadrill (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/7/11/6/1/2
+Current Exp: 110419 (97.44%)
+[KILL]: Got 1856 Exp for killing Lv. 41 Rillaboom
+EV yield: {"atk":3}
+[LEVELUP] Now level 48
+48	4	10	11	6	1	2
+Excadrill (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/10/11/6/1/2
+Current Exp: 112275 (23.85%)
+[KILL]: Got 929 Exp for killing Lv. 39 Pincurchin
+EV yield: {"atk":2}
+Excadrill (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/12/11/6/1/2
+Current Exp: 113204 (37.01%)
+[CATCH]: Got 1134 Exp for catching Lv. 41 Gastrodon
+EV yield: {"hp":2}
+Excadrill (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/12/11/6/1/2
+Current Exp: 114338 (53.08%)
+[KILL]: Got 899 Exp for killing Lv. 39 Linoone
+EV yield: {"spd":2}
+Excadrill (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/12/11/6/1/4
+Current Exp: 115237 (65.82%)
+[KILL]: Got 1119 Exp for killing Lv. 40 Pangoro
+EV yield: {"atk":2}
+Excadrill (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/14/11/6/1/4
+Current Exp: 116356 (81.68%)
+[KILL]: Got 1123 Exp for killing Lv. 42 Liepard
+EV yield: {"spd":2}
+Excadrill (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/14/11/6/1/6
+Current Exp: 117479 (97.59%)
+[KILL]: Got 1303 Exp for killing Lv. 43 Toxicroak
+EV yield: {"atk":2}
+[LEVELUP] Now level 49
+49	6	16	11	6	1	6
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/16/11/6/1/6
+Current Exp: 118782 (15.41%)
+[KILL]: Got 1264 Exp for killing Lv. 43 Scrafty
+EV yield: {"def":1,"spDef":1}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/16/12/6/2/6
+Current Exp: 120046 (32.61%)
+[KILL]: Got 1189 Exp for killing Lv. 44 Morpeko
+EV yield: {"spd":2}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/16/12/6/2/8
+Current Exp: 121235 (48.78%)
+[KILL]: Got 516 Exp for killing Lv. 42 Linoone
+EV yield: {"spd":2}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/16/12/6/2/10
+Current Exp: 121751 (55.80%)
+[KILL]: Got 558 Exp for killing Lv. 42 Thievul
+EV yield: {"spDef":2}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/16/12/6/4/10
+Current Exp: 122309 (63.39%)
+[KILL]: Got 600 Exp for killing Lv. 42 Scrafty
+EV yield: {"def":1,"spDef":1}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/16/13/6/5/10
+Current Exp: 122909 (71.55%)
+[KILL]: Got 661 Exp for killing Lv. 43 Weavile
+EV yield: {"atk":1,"spd":1}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/17/13/6/5/11
+Current Exp: 123570 (80.55%)
+[KILL]: Got 1153 Exp for killing Lv. 43 Liepard
+EV yield: {"spd":2}
+Excadrill (Lv. 49)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/17/13/6/5/13
+Current Exp: 124723 (96.23%)
+[KILL]: Got 1294 Exp for killing Lv. 43 Drapion
+EV yield: {"def":2}
+[LEVELUP] Now level 50
+50	6	17	15	6	5	13
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/17/15/6/5/13
+Current Exp: 126017 (13.29%)
+[KILL]: Got 649 Exp for killing Lv. 44 Scrafty
+EV yield: {"def":1,"spDef":1}
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/17/16/6/6/13
+Current Exp: 126666 (21.77%)
+[KILL]: Got 1087 Exp for killing Lv. 46 Obstagoon
+EV yield: {"def":3}
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/17/19/6/6/13
+Current Exp: 127753 (35.98%)
+[KILL]: Got 673 Exp for killing Lv. 45 Malamar
+EV yield: {"atk":2}
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/19/19/6/6/13
+Current Exp: 128426 (44.78%)
+[KILL]: Got 702 Exp for killing Lv. 46 Skuntank
+EV yield: {"hp":2}
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/19/19/6/6/13
+Current Exp: 129128 (53.95%)
+[KILL]: Got 1227 Exp for killing Lv. 45 Pelipper
+EV yield: {"def":2}
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/19/21/6/6/13
+Current Exp: 130355 (69.99%)
+[KILL]: Got 1259 Exp for killing Lv. 45 Sliggoo
+EV yield: {"spDef":2}
+Excadrill (Lv. 50)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/19/21/6/8/13
+Current Exp: 131614 (86.45%)
+[KILL]: Got 1411 Exp for killing Lv. 45 Ninetales
+EV yield: {"spDef":1,"spd":1}
+[LEVELUP] Now level 51
+51	8	19	21	6	9	14
+Excadrill (Lv. 51)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/19/21/6/9/14
+Current Exp: 133025 (4.70%)
+[KILL]: Got 1323 Exp for killing Lv. 45 Turtonator
+EV yield: {"def":2}
+Excadrill (Lv. 51)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/19/23/6/9/14
+Current Exp: 134348 (21.33%)
+[KILL]: Got 1346 Exp for killing Lv. 45 Abomasnow
+EV yield: {"atk":1,"spAtk":1}
+Excadrill (Lv. 51)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/20/23/7/9/14
+Current Exp: 135694 (38.24%)
+[KILL]: Got 1144 Exp for killing Lv. 45 Hakamo-o
+EV yield: {"def":2}
+Excadrill (Lv. 51)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/20/25/7/9/14
+Current Exp: 136838 (52.62%)
+[KILL]: Got 2106 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Excadrill (Lv. 51)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/23/25/7/9/14
+Current Exp: 138944 (79.09%)
+[KILL]: Got 1461 Exp for killing Lv. 46 Sandaconda
+EV yield: {"def":2}
+Excadrill (Lv. 51)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/23/27/7/9/14
+Current Exp: 140405 (97.45%)
+[KILL]: Got 2224 Exp for killing Lv. 47 Flygon
+EV yield: {"atk":1,"spd":2}
+[LEVELUP] Now level 52
+52	8	24	27	7	9	16
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/24/27/7/9/16
+Current Exp: 142629 (24.44%)
+[CATCH]: Got 956 Exp for catching Lv. 56 Doublade
+EV yield: {"def":2}
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 8/24/29/7/9/16
+Current Exp: 143585 (36.00%)
+[CATCH]: Got 1139 Exp for catching Lv. 56 Lapras
+EV yield: {"hp":2}
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/24/29/7/9/16
+Current Exp: 144724 (49.78%)
+[CATCH]: Got 762 Exp for catching Lv. 55 Lampent
+EV yield: {"spAtk":2}
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/24/29/9/9/16
+Current Exp: 145486 (58.99%)
+[CATCH]: Got 990 Exp for catching Lv. 55 Golurk
+EV yield: {"atk":2}
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/26/29/9/9/16
+Current Exp: 146476 (70.96%)
+[CATCH]: Got 1049 Exp for catching Lv. 55 Braviary
+EV yield: {"atk":2}
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/28/29/9/9/16
+Current Exp: 147525 (83.65%)
+[CATCH]: Got 1120 Exp for catching Lv. 56 Leafeon
+EV yield: {"def":2}
+Excadrill (Lv. 52)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/28/31/9/9/16
+Current Exp: 148645 (97.19%)
+[CATCH]: Got 1822 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+[LEVELUP] Now level 53
+53	10	28	31	12	9	16
+Excadrill (Lv. 53)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/28/31/12/9/16
+Current Exp: 150467 (18.52%)
+[KILL]: Got 1924 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Excadrill (Lv. 53)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/28/31/15/9/16
+Current Exp: 152391 (40.92%)
+[KILL]: Got 1200 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Excadrill (Lv. 53)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 10/28/33/15/9/16
+Current Exp: 153591 (54.90%)
+[KILL]: Got 1231 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Excadrill (Lv. 53)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/28/33/15/9/16
+Current Exp: 154822 (69.23%)
+[KILL]: Got 2011 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Excadrill (Lv. 53)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/31/33/15/9/16
+Current Exp: 156833 (92.65%)
+[KILL]: Got 1325 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+[LEVELUP] Now level 54
+54	12	33	33	15	9	16
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/33/33/15/9/16
+Current Exp: 158158 (7.79%)
+[KILL]: Got 1280 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/35/33/15/9/16
+Current Exp: 159438 (22.15%)
+[KILL]: Got 1257 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/37/33/15/10/16
+Current Exp: 160695 (36.26%)
+[KILL]: Got 1280 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/39/33/15/10/16
+Current Exp: 161975 (50.62%)
+[KILL]: Got 623 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/39/33/15/10/18
+Current Exp: 162598 (57.61%)
+[KILL]: Got 683 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/39/34/15/11/18
+Current Exp: 163281 (65.28%)
+[KILL]: Got 687 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/41/34/15/11/18
+Current Exp: 163968 (72.99%)
+[KILL]: Got 640 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/41/34/15/11/20
+Current Exp: 164608 (80.17%)
+[KILL]: Got 1116 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Excadrill (Lv. 54)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/44/34/15/11/20
+Current Exp: 165724 (92.69%)
+[KILL]: Got 719 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+[LEVELUP] Now level 55
+55	12	44	36	15	11	20
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 12/44/36/15/11/20
+Current Exp: 166443 (0.74%)
+[KILL]: Got 738 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/44/36/15/11/20
+Current Exp: 167181 (8.72%)
+[KILL]: Got 1015 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/44/39/15/11/20
+Current Exp: 168196 (19.71%)
+[KILL]: Got 594 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/46/39/15/11/20
+Current Exp: 168790 (26.13%)
+[KILL]: Got 1134 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/49/39/15/11/20
+Current Exp: 169924 (38.40%)
+[KILL]: Got 453 Exp for killing Lv. 47 Meowth
+EV yield: {"def":1}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/49/40/15/11/20
+Current Exp: 170377 (43.31%)
+[KILL]: Got 1320 Exp for killing Lv. 47 Durant
+EV yield: {"def":2}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/49/42/15/11/20
+Current Exp: 171697 (57.59%)
+[KILL]: Got 1039 Exp for killing Lv. 47 Mawile
+EV yield: {"atk":1,"def":1}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/50/43/15/11/20
+Current Exp: 172736 (68.83%)
+[KILL]: Got 1391 Exp for killing Lv. 47 Excadrill
+EV yield: {"atk":2}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/52/43/15/11/20
+Current Exp: 174127 (83.89%)
+[KILL]: Got 477 Exp for killing Lv. 47 Ferroseed
+EV yield: {"def":1}
+Excadrill (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/52/44/15/11/20
+Current Exp: 174604 (89.05%)
+[KILL]: Got 1398 Exp for killing Lv. 47 Steelix
+EV yield: {"def":2}
+[LEVELUP] Now level 56
+56	14	52	46	15	11	20
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/52/46/15/11/20
+Current Exp: 176002 (4.03%)
+[KILL]: Got 1353 Exp for killing Lv. 48 Durant
+EV yield: {"def":2}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/52/48/15/11/20
+Current Exp: 177355 (18.16%)
+[KILL]: Got 528 Exp for killing Lv. 48 Cufant
+EV yield: {"atk":1}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/53/48/15/11/20
+Current Exp: 177883 (23.67%)
+[KILL]: Got 1401 Exp for killing Lv. 48 Bronzong
+EV yield: {"def":1,"spDef":1}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/53/49/15/12/20
+Current Exp: 179284 (38.30%)
+[KILL]: Got 1064 Exp for killing Lv. 48 Mawile
+EV yield: {"atk":1,"def":1}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/54/50/15/12/20
+Current Exp: 180348 (49.41%)
+[KILL]: Got 1233 Exp for killing Lv. 48 Klang
+EV yield: {"def":2}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 14/54/52/15/12/20
+Current Exp: 181581 (62.28%)
+[KILL]: Got 1383 Exp for killing Lv. 49 Stunfisk
+EV yield: {"hp":2}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/54/52/15/12/20
+Current Exp: 182964 (76.73%)
+[KILL]: Got 1500 Exp for killing Lv. 49 Steelix
+EV yield: {"def":2}
+Excadrill (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/54/54/15/12/20
+Current Exp: 184464 (92.39%)
+[KILL]: Got 736 Exp for killing Lv. 50 Froslass
+EV yield: {"spd":2}
+[LEVELUP] Now level 57
+57	16	54	54	15	12	22
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/54/54/15/12/22
+Current Exp: 185200 (0.07%)
+[KILL]: Got 720 Exp for killing Lv. 50 Salazzle
+EV yield: {"spd":2}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/54/54/15/12/24
+Current Exp: 185920 (7.33%)
+[KILL]: Got 1093 Exp for killing Lv. 50 Tsareena
+EV yield: {"atk":3}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/57/54/15/12/24
+Current Exp: 187013 (18.35%)
+[KILL]: Got 846 Exp for killing Lv. 51 Milotic
+EV yield: {"spDef":2}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/57/54/15/14/24
+Current Exp: 187859 (26.88%)
+[KILL]: Got 776 Exp for killing Lv. 52 Garbador
+EV yield: {"atk":2}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/59/54/15/14/24
+Current Exp: 188635 (34.70%)
+[KILL]: Got 1191 Exp for killing Lv. 51 Mawile
+EV yield: {"atk":1,"def":1}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/60/55/15/14/24
+Current Exp: 189826 (46.71%)
+[KILL]: Got 2318 Exp for killing Lv. 51 Gardevoir
+EV yield: {"spAtk":3}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/60/55/18/14/24
+Current Exp: 192144 (70.08%)
+[KILL]: Got 1635 Exp for killing Lv. 52 Rapidash
+EV yield: {"spd":2}
+Excadrill (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/60/55/18/14/26
+Current Exp: 193779 (86.56%)
+[KILL]: Got 2484 Exp for killing Lv. 53 Hatterene
+EV yield: {"spAtk":3}
+[LEVELUP] Now level 58
+58	16	60	55	21	14	26
+Excadrill (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 16/60/55/21/14/26
+Current Exp: 196263 (11.21%)

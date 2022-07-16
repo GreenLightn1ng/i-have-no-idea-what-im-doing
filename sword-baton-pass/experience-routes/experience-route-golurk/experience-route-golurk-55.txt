@@ -1,0 +1,263 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[CATCH]: Got 985 Exp for catching Lv. 55 Braviary
+Could not find EV Yield for: Braviary
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 167360 (10.66%)
+[CATCH]: Got 1052 Exp for catching Lv. 56 Leafeon
+Could not find EV Yield for: Leafeon
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/0
+Current Exp: 168412 (22.04%)
+[CATCH]: Got 1715 Exp for catching Lv. 60 Gardevoir
+EV yield: {"spAtk":3}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/3/0/0
+Current Exp: 170127 (40.60%)
+[KILL]: Got 919 Exp for killing Lv. 45 Gardevoir
+EV yield: {"spAtk":3}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/6/0/0
+Current Exp: 171046 (50.55%)
+[KILL]: Got 574 Exp for killing Lv. 46 Pelipper
+EV yield: {"def":2}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/2/6/0/0
+Current Exp: 171620 (56.76%)
+[KILL]: Got 588 Exp for killing Lv. 46 Noctowl
+EV yield: {"hp":2}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/0/2/6/0/0
+Current Exp: 172208 (63.12%)
+[KILL]: Got 961 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/3/2/6/0/0
+Current Exp: 173169 (73.52%)
+[KILL]: Got 634 Exp for killing Lv. 46 Rhydon
+EV yield: {"atk":2}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/5/2/6/0/0
+Current Exp: 173803 (80.38%)
+[KILL]: Got 625 Exp for killing Lv. 46 Darmanitan
+EV yield: {"atk":2}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/2/6/0/0
+Current Exp: 174428 (87.14%)
+[KILL]: Got 615 Exp for killing Lv. 46 Falinks
+EV yield: {"atk":2,"spDef":1}
+Golurk (Lv. 55)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/9/2/6/1/0
+Current Exp: 175043 (93.80%)
+[KILL]: Got 625 Exp for killing Lv. 46 Grapploct
+EV yield: {"atk":2}
+[LEVELUP] Now level 56
+56	2	11	2	6	1	0
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/0
+Current Exp: 175668 (0.54%)
+[KILL]: Got 596 Exp for killing Lv. 47 Liepard
+EV yield: {"spd":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/2/6/1/2
+Current Exp: 176264 (6.77%)
+[KILL]: Got 653 Exp for killing Lv. 47 Scrafty
+EV yield: {"def":1,"spDef":1}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/3/6/2/2
+Current Exp: 176917 (13.58%)
+[KILL]: Got 657 Exp for killing Lv. 47 Toxicroak
+EV yield: {"atk":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/2
+Current Exp: 177574 (20.44%)
+[KILL]: Got 612 Exp for killing Lv. 48 Morpeko
+EV yield: {"spd":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/13/3/6/2/4
+Current Exp: 178186 (26.84%)
+[KILL]: Got 1068 Exp for killing Lv. 49 Grimmsnarl
+EV yield: {"atk":3}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/3/6/2/4
+Current Exp: 179254 (37.99%)
+[KILL]: Got 688 Exp for killing Lv. 48 Dubwool
+EV yield: {"def":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/16/5/6/2/4
+Current Exp: 179942 (45.17%)
+[KILL]: Got 722 Exp for killing Lv. 47 Snorlax
+EV yield: {"hp":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/5/6/2/4
+Current Exp: 180664 (52.71%)
+[KILL]: Got 993 Exp for killing Lv. 48 Corviknight
+EV yield: {"def":3}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/16/8/6/2/4
+Current Exp: 181657 (63.08%)
+[KILL]: Got 581 Exp for killing Lv. 47 Pincurchin
+EV yield: {"atk":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/18/8/6/2/4
+Current Exp: 182238 (69.14%)
+[KILL]: Got 1110 Exp for killing Lv. 49 Rillaboom
+EV yield: {"atk":3}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/8/6/2/4
+Current Exp: 183348 (80.74%)
+[KILL]: Got 222 Exp for killing Lv. 47 Meowth
+EV yield: {"def":1}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/9/6/2/4
+Current Exp: 183570 (83.05%)
+[KILL]: Got 646 Exp for killing Lv. 47 Durant
+EV yield: {"def":2}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/21/11/6/2/4
+Current Exp: 184216 (89.80%)
+[KILL]: Got 508 Exp for killing Lv. 47 Mawile
+EV yield: {"atk":1,"def":1}
+Golurk (Lv. 56)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/22/12/6/2/4
+Current Exp: 184724 (95.10%)
+[KILL]: Got 680 Exp for killing Lv. 47 Excadrill
+EV yield: {"atk":2}
+[LEVELUP] Now level 57
+57	4	24	12	6	2	4
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/12/6/2/4
+Current Exp: 185404 (2.13%)
+[KILL]: Got 228 Exp for killing Lv. 47 Ferroseed
+EV yield: {"def":1}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/13/6/2/4
+Current Exp: 185632 (4.43%)
+[KILL]: Got 669 Exp for killing Lv. 47 Steelix
+EV yield: {"def":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/15/6/2/4
+Current Exp: 186301 (11.17%)
+[KILL]: Got 662 Exp for killing Lv. 48 Durant
+EV yield: {"def":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/24/17/6/2/4
+Current Exp: 186963 (17.84%)
+[KILL]: Got 258 Exp for killing Lv. 48 Cufant
+EV yield: {"atk":1}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/17/6/2/4
+Current Exp: 187221 (20.45%)
+[KILL]: Got 686 Exp for killing Lv. 48 Bronzong
+EV yield: {"def":1,"spDef":1}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/25/18/6/3/4
+Current Exp: 187907 (27.36%)
+[KILL]: Got 521 Exp for killing Lv. 48 Mawile
+EV yield: {"atk":1,"def":1}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/19/6/3/4
+Current Exp: 188428 (32.61%)
+[KILL]: Got 603 Exp for killing Lv. 48 Klang
+EV yield: {"def":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 4/26/21/6/3/4
+Current Exp: 189031 (38.69%)
+[KILL]: Got 676 Exp for killing Lv. 49 Stunfisk
+EV yield: {"hp":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/21/6/3/4
+Current Exp: 189707 (45.51%)
+[KILL]: Got 734 Exp for killing Lv. 49 Steelix
+EV yield: {"def":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/4
+Current Exp: 190441 (52.91%)
+[KILL]: Got 720 Exp for killing Lv. 50 Froslass
+EV yield: {"spd":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/6
+Current Exp: 191161 (60.17%)
+[KILL]: Got 720 Exp for killing Lv. 50 Salazzle
+EV yield: {"spd":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/26/23/6/3/8
+Current Exp: 191881 (67.43%)
+[KILL]: Got 1093 Exp for killing Lv. 50 Tsareena
+EV yield: {"atk":3}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/3/8
+Current Exp: 192974 (78.45%)
+[KILL]: Got 846 Exp for killing Lv. 51 Milotic
+EV yield: {"spDef":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/29/23/6/5/8
+Current Exp: 193820 (86.97%)
+[KILL]: Got 776 Exp for killing Lv. 52 Garbador
+EV yield: {"atk":2}
+Golurk (Lv. 57)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/31/23/6/5/8
+Current Exp: 194596 (94.80%)
+[KILL]: Got 596 Exp for killing Lv. 51 Mawile
+EV yield: {"atk":1,"def":1}
+[LEVELUP] Now level 58
+58	6	32	24	6	5	8
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/6/5/8
+Current Exp: 195192 (0.78%)
+[KILL]: Got 1135 Exp for killing Lv. 51 Gardevoir
+EV yield: {"spAtk":3}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/8
+Current Exp: 196327 (11.83%)
+[KILL]: Got 801 Exp for killing Lv. 52 Rapidash
+EV yield: {"spd":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/9/5/10
+Current Exp: 197128 (19.64%)
+[KILL]: Got 1216 Exp for killing Lv. 53 Hatterene
+EV yield: {"spAtk":3}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/24/12/5/10
+Current Exp: 198344 (31.48%)
+[KILL]: Got 815 Exp for killing Lv. 51 Golisopod
+EV yield: {"def":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/32/26/12/5/10
+Current Exp: 199159 (39.42%)
+[KILL]: Got 723 Exp for killing Lv. 52 Seaking
+EV yield: {"atk":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/26/12/5/10
+Current Exp: 199882 (46.46%)
+[KILL]: Got 675 Exp for killing Lv. 51 Pelipper
+EV yield: {"def":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/10
+Current Exp: 200557 (53.03%)
+[KILL]: Got 787 Exp for killing Lv. 52 Barraskewda
+EV yield: {"spd":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/34/28/12/5/12
+Current Exp: 201344 (60.70%)
+[KILL]: Got 811 Exp for killing Lv. 53 Drednaw
+EV yield: {"atk":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/36/28/12/5/12
+Current Exp: 202155 (68.60%)
+[KILL]: Got 801 Exp for killing Lv. 52 Hawlucha
+EV yield: {"atk":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/38/28/12/5/12
+Current Exp: 202956 (76.40%)
+[KILL]: Got 787 Exp for killing Lv. 53 Falinks
+EV yield: {"atk":2,"spDef":1}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/40/28/12/6/12
+Current Exp: 203743 (84.07%)
+[KILL]: Got 768 Exp for killing Lv. 52 Grapploct
+EV yield: {"atk":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/42/28/12/6/12
+Current Exp: 204511 (91.55%)
+[KILL]: Got 845 Exp for killing Lv. 53 Sirfetch’d
+EV yield: {"atk":2}
+Golurk (Lv. 58)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/44/28/12/6/12
+Current Exp: 205356 (99.78%)
+[KILL]: Got 1257 Exp for killing Lv. 54 Machamp
+EV yield: {"atk":3}
+[LEVELUP] Now level 59
+59	6	47	28	12	6	12
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/28/12/6/12
+Current Exp: 206613 (11.62%)
+[KILL]: Got 771 Exp for killing Lv. 53 Torkoal
+EV yield: {"def":2}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/30/12/6/12
+Current Exp: 207384 (18.88%)
+[KILL]: Got 828 Exp for killing Lv. 54 Turtonator
+EV yield: {"def":2}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/47/32/12/6/12
+Current Exp: 208212 (26.67%)
+[KILL]: Got 1266 Exp for killing Lv. 54 Flygon
+EV yield: {"atk":1,"spd":2}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/48/32/12/6/14
+Current Exp: 209478 (38.59%)
+[KILL]: Got 1461 Exp for killing Lv. 54 Goodra
+EV yield: {"spDef":3}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/48/32/12/9/14
+Current Exp: 210939 (52.35%)
+[KILL]: Got 948 Exp for killing Lv. 55 Duraludon
+EV yield: {"spAtk":2}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/48/32/14/9/14
+Current Exp: 211887 (61.27%)
+[KILL]: Got 1754 Exp for killing Lv. 55 Escavalier
+EV yield: {"atk":2}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/50/32/14/9/14
+Current Exp: 213641 (77.79%)
+[KILL]: Got 1733 Exp for killing Lv. 55 Ferrothorn
+EV yield: {"def":2}
+Golurk (Lv. 59)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/50/34/14/9/14
+Current Exp: 215374 (94.11%)
+[KILL]: Got 1561 Exp for killing Lv. 55 Perrserker
+EV yield: {"atk":2}
+[LEVELUP] Now level 60
+60	6	52	34	14	9	14
+Golurk (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/52/34/14/9/14
+Current Exp: 216935 (8.51%)
+[KILL]: Got 2687 Exp for killing Lv. 56 Klinklang
+EV yield: {"def":3}
+Golurk (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/52/37/14/9/14
+Current Exp: 219622 (32.98%)
+[KILL]: Got 1880 Exp for killing Lv. 57 Copperajah
+EV yield: {"atk":2}
+Golurk (Lv. 60)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 6/54/37/14/9/14
+Current Exp: 221502 (50.10%)

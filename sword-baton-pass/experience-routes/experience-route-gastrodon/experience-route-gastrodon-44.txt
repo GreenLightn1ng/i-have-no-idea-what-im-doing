@@ -1,0 +1,113 @@
+C:\Program Files\nodejs\node.exe .\sword-baton-pass\experience-routes\BatonPassExpRoute.js
+[KILL]: Got 500 Exp for killing Lv. 39 Linoone
+EV yield: {"spd":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/0/0/0/0/2
+Current Exp: 85684 (8.42%)
+[KILL]: Got 621 Exp for killing Lv. 40 Pangoro
+EV yield: {"atk":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/0/0/2
+Current Exp: 86305 (18.87%)
+[KILL]: Got 622 Exp for killing Lv. 42 Liepard
+EV yield: {"spd":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/2/0/0/0/4
+Current Exp: 86927 (29.34%)
+[KILL]: Got 721 Exp for killing Lv. 43 Toxicroak
+EV yield: {"atk":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/0/0/0/4
+Current Exp: 87648 (41.47%)
+[KILL]: Got 717 Exp for killing Lv. 43 Scrafty
+EV yield: {"def":1,"spDef":1}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/1/0/1/4
+Current Exp: 88365 (53.54%)
+[KILL]: Got 674 Exp for killing Lv. 44 Morpeko
+EV yield: {"spd":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/1/0/1/6
+Current Exp: 89039 (64.89%)
+[KILL]: Got 586 Exp for killing Lv. 42 Linoone
+EV yield: {"spd":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/1/0/1/8
+Current Exp: 89625 (74.75%)
+[KILL]: Got 633 Exp for killing Lv. 42 Thievul
+EV yield: {"spDef":2}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/1/0/3/8
+Current Exp: 90258 (85.41%)
+[KILL]: Got 682 Exp for killing Lv. 42 Scrafty
+EV yield: {"def":1,"spDef":1}
+Gastrodon (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/4/2/0/4/8
+Current Exp: 90940 (96.89%)
+[KILL]: Got 750 Exp for killing Lv. 43 Weavile
+EV yield: {"atk":1,"spd":1}
+[LEVELUP] Now level 45
+45	0	5	2	0	4	9
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/2/0/4/9
+Current Exp: 91690 (9.10%)
+[KILL]: Got 637 Exp for killing Lv. 43 Liepard
+EV yield: {"spd":2}
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/2/0/4/11
+Current Exp: 92327 (19.35%)
+[KILL]: Got 715 Exp for killing Lv. 43 Drapion
+EV yield: {"def":2}
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/4/0/4/11
+Current Exp: 93042 (30.86%)
+[KILL]: Got 734 Exp for killing Lv. 44 Scrafty
+EV yield: {"def":1,"spDef":1}
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/5/0/5/11
+Current Exp: 93776 (42.68%)
+[KILL]: Got 1226 Exp for killing Lv. 46 Obstagoon
+EV yield: {"def":3}
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/5/8/0/5/11
+Current Exp: 95002 (62.42%)
+[KILL]: Got 761 Exp for killing Lv. 45 Malamar
+EV yield: {"atk":2}
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 0/7/8/0/5/11
+Current Exp: 95763 (74.67%)
+[KILL]: Got 792 Exp for killing Lv. 46 Skuntank
+EV yield: {"hp":2}
+Gastrodon (Lv. 45)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/8/0/5/11
+Current Exp: 96555 (87.43%)
+[KILL]: Got 1387 Exp for killing Lv. 45 Pelipper
+EV yield: {"def":2}
+[LEVELUP] Now level 46
+46	2	7	10	0	5	11
+Gastrodon (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/10/0/5/11
+Current Exp: 97942 (9.34%)
+[KILL]: Got 1388 Exp for killing Lv. 45 Sliggoo
+EV yield: {"spDef":2}
+Gastrodon (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/10/0/7/11
+Current Exp: 99330 (30.74%)
+[KILL]: Got 1554 Exp for killing Lv. 45 Ninetales
+EV yield: {"spDef":1,"spd":1}
+Gastrodon (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/10/0/8/12
+Current Exp: 100884 (54.69%)
+[KILL]: Got 1493 Exp for killing Lv. 45 Turtonator
+EV yield: {"def":2}
+Gastrodon (Lv. 46)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/7/12/0/8/12
+Current Exp: 102377 (77.71%)
+[KILL]: Got 1519 Exp for killing Lv. 45 Abomasnow
+EV yield: {"atk":1,"spAtk":1}
+[LEVELUP] Now level 47
+47	2	8	12	1	8	12
+Gastrodon (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/8/12/1/8/12
+Current Exp: 103896 (1.08%)
+[KILL]: Got 1260 Exp for killing Lv. 45 Hakamo-o
+EV yield: {"def":2}
+Gastrodon (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/8/14/1/8/12
+Current Exp: 105156 (19.69%)
+[KILL]: Got 2316 Exp for killing Lv. 46 Gigalith
+EV yield: {"atk":3}
+Gastrodon (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/11/14/1/8/12
+Current Exp: 107472 (53.91%)
+[KILL]: Got 2445 Exp for killing Lv. 47 Flygon
+EV yield: {"atk":1,"spd":2}
+Gastrodon (Lv. 47)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/12/14/1/8/14
+Current Exp: 109917 (90.03%)
+[KILL]: Got 1839 Exp for killing Lv. 48 Duraludon
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 48
+48	2	12	14	3	8	14
+Gastrodon (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/12/14/3/8/14
+Current Exp: 111756 (16.49%)
+[KILL]: Got 1569 Exp for killing Lv. 46 Sandaconda
+EV yield: {"def":2}
+Gastrodon (Lv. 48)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 2/12/16/3/8/14
+Current Exp: 113325 (38.73%)

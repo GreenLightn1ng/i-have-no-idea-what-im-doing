@@ -1,0 +1,185 @@
+"C:\Program Files\nodejs\node.exe" ".\sword-baton-pass\Generic Sword Exp Guide.js"
+[KILL]: Got 204 Exp for killing Lv. 34 Spritzee
+EV yield: {"hp":1}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 1/0/0/0/0/0
+Current Exp: 55076 (4.59%)
+[KILL]: Got 504 Exp for killing Lv. 34 Slurpuff
+EV yield: {"def":2}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 1/0/2/0/0/0
+Current Exp: 55580 (15.92%)
+[KILL]: Got 204 Exp for killing Lv. 34 Swirlix
+EV yield: {"def":1}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 1/0/3/0/0/0
+Current Exp: 55784 (20.51%)
+[KILL]: Got 486 Exp for killing Lv. 34 Aromatisse
+EV yield: {"hp":2}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/0/3/0/0/0
+Current Exp: 56270 (31.44%)
+[KILL]: Got 416 Exp for killing Lv. 35 Morgrem
+EV yield: {"spAtk":2}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/0/3/2/0/0
+Current Exp: 56686 (40.79%)
+[KILL]: Got 827 Exp for killing Lv. 35 Gardevoir
+EV yield: {"spAtk":3}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/0/3/5/0/0
+Current Exp: 57513 (59.39%)
+[KILL]: Got 583 Exp for killing Lv. 36 Weezing
+EV yield: {"def":2}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/0/5/5/0/0
+Current Exp: 58096 (72.50%)
+[KILL]: Got 981 Exp for killing Lv. 37 Togekiss
+EV yield: {"spAtk":2,"spDef":1}
+Morgrem (Lv. 38)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/0/5/7/1/0
+Current Exp: 59077 (94.56%)
+[KILL]: Got 451 Exp for killing Lv. 36 Mawile
+EV yield: {"atk":1,"def":1}
+[LEVELUP] Now level 39
+39	3	1	6	7	1	0
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/1/6/7/1/0
+Current Exp: 59528 (4.46%)
+[KILL]: Got 639 Exp for killing Lv. 38 Alcremie
+EV yield: {"spDef":2}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/1/6/7/3/0
+Current Exp: 60167 (18.12%)
+[KILL]: Got 483 Exp for killing Lv. 34 Trevenant
+EV yield: {"atk":2}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/3/6/7/3/0
+Current Exp: 60650 (28.43%)
+[KILL]: Got 492 Exp for killing Lv. 34 Heatmor
+EV yield: {"spAtk":2}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 3/3/6/9/3/0
+Current Exp: 61142 (38.94%)
+[KILL]: Got 586 Exp for killing Lv. 35 Snorlax
+EV yield: {"hp":2}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/3/6/9/3/0
+Current Exp: 61728 (51.46%)
+[KILL]: Got 533 Exp for killing Lv. 35 Boltund
+EV yield: {"spd":2}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/3/6/9/3/2
+Current Exp: 62261 (62.85%)
+[KILL]: Got 924 Exp for killing Lv. 37 Rillaboom
+EV yield: {"atk":3}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/6/6/9/3/2
+Current Exp: 63185 (82.59%)
+[KILL]: Got 461 Exp for killing Lv. 36 Roselia
+EV yield: {"spAtk":2}
+Morgrem (Lv. 39)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/6/6/11/3/2
+Current Exp: 63646 (92.44%)
+[KILL]: Got 428 Exp for killing Lv. 36 Hattrem
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 40
+40	5	6	6	13	3	2
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/6/6/13/3/2
+Current Exp: 64074 (1.50%)
+[KILL]: Got 701 Exp for killing Lv. 40 Barbaracle
+EV yield: {"atk":2}
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/6/13/3/2
+Current Exp: 64775 (15.75%)
+[KILL]: Got 709 Exp for killing Lv. 40 Shuckle
+EV yield: {"def":1,"spDef":1}
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/7/13/4/2
+Current Exp: 65484 (30.16%)
+[KILL]: Got 695 Exp for killing Lv. 41 Stonjourner
+EV yield: {"def":2}
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/9/13/4/2
+Current Exp: 66179 (44.28%)
+[KILL]: Got 1131 Exp for killing Lv. 42 Coalossal
+EV yield: {"def":3}
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/12/13/4/2
+Current Exp: 67310 (67.26%)
+[KILL]: Got 689 Exp for killing Lv. 40 Dubwool
+EV yield: {"def":2}
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 5/8/14/13/4/2
+Current Exp: 67999 (81.26%)
+[KILL]: Got 717 Exp for killing Lv. 39 Snorlax
+EV yield: {"hp":2}
+Morgrem (Lv. 40)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/8/14/13/4/2
+Current Exp: 68716 (95.83%)
+[KILL]: Got 993 Exp for killing Lv. 40 Corviknight
+EV yield: {"def":3}
+[LEVELUP] Now level 41
+41	7	8	17	13	4	2
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/8/17/13/4/2
+Current Exp: 69709 (15.25%)
+[KILL]: Got 1087 Exp for killing Lv. 41 Rillaboom
+EV yield: {"atk":3}
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/11/17/13/4/2
+Current Exp: 70796 (36.29%)
+[KILL]: Got 560 Exp for killing Lv. 39 Pincurchin
+EV yield: {"atk":2}
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/13/17/13/4/2
+Current Exp: 71356 (47.13%)
+[KILL]: Got 542 Exp for killing Lv. 39 Linoone
+EV yield: {"spd":2}
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/13/17/13/4/4
+Current Exp: 71898 (57.62%)
+[KILL]: Got 674 Exp for killing Lv. 40 Pangoro
+EV yield: {"atk":2}
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/15/17/13/4/4
+Current Exp: 72572 (70.66%)
+[KILL]: Got 673 Exp for killing Lv. 42 Liepard
+EV yield: {"spd":2}
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/15/17/13/4/6
+Current Exp: 73245 (83.68%)
+[KILL]: Got 779 Exp for killing Lv. 43 Toxicroak
+EV yield: {"atk":2}
+Morgrem (Lv. 41)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/17/13/4/6
+Current Exp: 74024 (98.76%)
+[KILL]: Got 775 Exp for killing Lv. 43 Scrafty
+EV yield: {"def":1,"spDef":1}
+[LEVELUP] Now level 42
+42	7	17	18	13	5	6
+Morgrem (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/18/13/5/6
+Current Exp: 74799 (13.12%)
+[LEVEL BONUS]
+[KILL]: Got 851 Exp for killing Lv. 44 Morpeko
+EV yield: {"spd":2}
+Morgrem (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/18/13/5/8
+Current Exp: 75650 (28.82%)
+[EVOLUTION]
+Grimmsnarl (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/18/13/5/8
+Current Exp: 75650 (28.82%)
+[KILL]: Got 618 Exp for killing Lv. 42 Linoone
+EV yield: {"spd":2}
+Grimmsnarl (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/18/13/5/10
+Current Exp: 76268 (40.23%)
+[KILL]: Got 668 Exp for killing Lv. 42 Thievul
+EV yield: {"spDef":2}
+Grimmsnarl (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/18/13/7/10
+Current Exp: 76936 (52.56%)
+[KILL]: Got 719 Exp for killing Lv. 42 Scrafty
+EV yield: {"def":1,"spDef":1}
+Grimmsnarl (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/17/19/13/8/10
+Current Exp: 77655 (65.82%)
+[KILL]: Got 790 Exp for killing Lv. 43 Weavile
+EV yield: {"atk":1,"spd":1}
+Grimmsnarl (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/18/19/13/8/11
+Current Exp: 78445 (80.40%)
+[KILL]: Got 688 Exp for killing Lv. 43 Liepard
+EV yield: {"spd":2}
+Grimmsnarl (Lv. 42)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/18/19/13/8/13
+Current Exp: 79133 (93.10%)
+[KILL]: Got 772 Exp for killing Lv. 43 Drapion
+EV yield: {"def":2}
+[LEVELUP] Now level 43
+43	7	18	21	13	8	13
+Grimmsnarl (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/18/21/13/8/13
+Current Exp: 79905 (7.01%)
+[KILL]: Got 1544 Exp for killing Lv. 44 Scrafty
+EV yield: {"def":1,"spDef":1}
+Grimmsnarl (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/18/22/13/9/13
+Current Exp: 81449 (34.21%)
+[KILL]: Got 2578 Exp for killing Lv. 46 Obstagoon
+EV yield: {"def":3}
+Grimmsnarl (Lv. 43)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/18/25/13/9/13
+Current Exp: 84027 (79.62%)
+[KILL]: Got 1600 Exp for killing Lv. 45 Malamar
+EV yield: {"atk":2}
+[LEVELUP] Now level 44
+44	7	20	25	13	9	13
+Grimmsnarl (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 7/20/25/13/9/13
+Current Exp: 85627 (7.46%)
+[KILL]: Got 1624 Exp for killing Lv. 46 Skuntank
+EV yield: {"hp":2}
+Grimmsnarl (Lv. 44)  (Nature: Hardy) (Moves: (None)/(None)/(None)/(None)) IVs: 31/31/31/31/31/31 EVs: 9/20/25/13/9/13
+Current Exp: 87251 (34.79%)
